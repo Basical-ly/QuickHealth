@@ -1,5 +1,5 @@
 # QuickHealth
-QuickHealth is a free macOS program made in Python.
+QuickHealth is a free macOS program made in Python with some simple and quick health features.
 
 If you have a feature request or bug report, file them [here](https://github.com/HeyBilly9/QuickHealth/issues/new).
 > [!IMPORTANT]
