@@ -12,6 +12,6 @@ QuickHealth will remind you and time you to look 20 feet away from your device e
 ### Posture
 QuickHealth will gently remind you to correct your posture and avoid strain by reminding you at healthy intervals.
 ### Configurable
-You can easily change posture and break intervals and durations, allowing you to customize your experience exactly to your liking.
+You can easily change break intervals and durations, allowing you to customize your experience exactly to your liking.
 ### Updates
 QuickHealth is still being updated, with new features, fixes, and improvements being added. QuickHealth also automatically checks for updates and notifies you if there is a new one available.
