@@ -2,8 +2,6 @@
 QuickHealth is a macOS Python program with some quick eye features.
 
 If you have a feature request or bug report, file them [here](https://github.com/HeyBilly9/QuickHealth/issues/new).
-> [!IMPORTANT]
-> This project is a work in progress and it may contain bugs.
 ## Installation and Setup
 Download and run the Python script, then QuickHealth will do the rest!
 ## Features
