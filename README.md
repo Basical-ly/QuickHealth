@@ -8,7 +8,7 @@ If you have a feature request or bug report, file them [here](https://github.com
 ```
 display notification "Hello world!"
 ```
-4. Download and run the Python script, then QuickHealth will do the rest!
+3. Download and run the Python script, then QuickHealth will do the rest!
 ## Features
 ### 20-20-20
 QuickHealth will remind you to look 20 feet away from your device every 20 minutes for 20 seconds, following the 20-20-20 rule and improving your eye health.
