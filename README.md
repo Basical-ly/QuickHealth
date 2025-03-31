@@ -4,7 +4,7 @@ QuickHealth is a macOS Python program with some quick eye features.
 If you have a feature request or bug report, file them [here](https://github.com/HeyBilly9/QuickHealth/issues/new).
 ## Installation and Setup
 1. Download Python [here](https://www.python.org/downloads/).
-2. Open the 'Script Editor' Application (preinstalled in macOS) and copy and paste the code below into 'Script Editor'. Then, press ⌘ + S and select save. After, click the gray play button in the top right of the window (it's between the square and hammer icon.) A notification about 'Script Editor' notifications should appear, click on it and enable notifications from 'Script Editor'.
+2. Open the 'Script Editor' Application (preinstalled in macOS) and copy and paste the code below into 'Script Editor'. Then, press ⌘ + S and select save. After, click the gray play button in the top right of the window (it's between the square and hammer icon.) A notification about 'Script Editor' notifications should appear, click on it and enable notifications from 'Script Editor'. Make sure notifications are set to 'Banners'.
 ```
 display notification "Hello world!"
 ```
