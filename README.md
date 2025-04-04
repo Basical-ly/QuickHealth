@@ -13,6 +13,8 @@ If you have a feature request or bug report, file them [here](https://github.com
     4. Click the gray play button in the top right of the window (it's between the square and hammer icon).
     5. A notification about 'Script Editor' notifications should appear; click on it and enable notifications from 'Script Editor'. Make sure notifications are set to 'Banners'.
 3. Download and run the Python script, then QuickHealth will do the rest!
+
+For more information on installing QuickHealth, [read this.](https://github.com/Basical-ly/QuickHealth/wiki/Installing-QuickHealth)
 ## Features
 ### 20-20-20
 QuickHealth will remind you to look 20 feet away from your device every 20 minutes for 20 seconds, following the 20-20-20 rule and improving your eye health.
