@@ -1,7 +1,7 @@
 # QuickHealth
-QuickHealth is a lightweight macOS wellness program that helps you to build healthier screen habits by customizable reminders and breaks. It reduces eye strain and improves productivity through features like Short Breaks, Long Breaks, Posture Reminders, and more, encouraging better rest, posture, and eye health. 
+QuickHealth is a lightweight macOS wellness program that helps you to build healthier screen habits with customizable reminders and breaks. It reduces eye strain and improves productivity through features like Short Breaks, Long Breaks, Posture Reminders, and more, encouraging better rest, posture, and eye health. 
 
-If you have a feature request or bug report, file them [here](https://github.com/HeyBilly9/QuickHealth/issues/new).
+Learn more about QuickHealth [here.](https://github.com/Basical-ly/QuickHealth/wiki)
 ## Installation and Setup
 1. Download Python [here](https://www.python.org/downloads/).
 2. Enable 'Script Editor' notifications
