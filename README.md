@@ -30,4 +30,4 @@ Settings allow you to customize or disable features like breaks and reminders to
 ### Updates
 QuickHealth is still being updated with new features, fixes, and improvements. QuickHealth also automatically checks for updates and notifies you if there is a new one available.
 
-### See the [Feature Overview](https://github.com/Basical-ly/QuickHealth/wiki/Features-Overview) to learn more about QuickHealth's great features.
+**See the [Feature Overview](https://github.com/Basical-ly/QuickHealth/wiki/Features-Overview) to learn more about QuickHealth's features.**
