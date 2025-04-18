@@ -6,18 +6,7 @@ QuickHealth is a lightweight macOS wellness CLI program that helps you to build 
 
 Learn more about QuickHealth [here.](https://github.com/Basical-ly/QuickHealth/wiki)
 ## Installation and Setup
-1. Download Python [here](https://www.python.org/downloads/).
-2. Enable 'Script Editor' notifications
-    1. Open the 'Script Editor' Application (preinstalled in macOS) and copy and paste the code below into 'Script Editor'.
-    ```
-    display notification "Hello world!"
-    ```
-    3. Press ⌘ + S and select save.
-    4. Click the gray play button in the top right of the window (it's between the square and hammer icon).
-    5. A notification about 'Script Editor' notifications should appear; click on it and enable notifications from 'Script Editor'. Make sure notifications are set to 'Banners'.
-3. Download and run the Python script, then QuickHealth will do the rest!
-
-For more information on installing QuickHealth, [please read this.](https://github.com/Basical-ly/QuickHealth/wiki/Installing-QuickHealth)
+For a guide on installing QuickHealth, refer [here](https://github.com/Basical-ly/QuickHealth/wiki/Installing-QuickHealth).
 ## Features
 ### Posture
 Posture Reminders gently nudge you to help you maintain a healthy posture and reduce eye strain.
